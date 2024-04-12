@@ -1,0 +1,4 @@
+hidden_dim: 32
+in_channels: 3
+learning_rate: 0.0002
+z_dim: 100
